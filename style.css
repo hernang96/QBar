@@ -6,3 +6,17 @@ h2, h1 {
     display: inline;
     border: 1px dashed green;
 }
+.access {
+    width: 125px;
+    height: 150px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    border: 8px solid black;
+}
+.access input {
+    width: 80%;
+}
+.access button {
+    width: 33.33%;
+}
